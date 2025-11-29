@@ -1,5 +1,14 @@
 ## Hi there 👋
+This profile is my personal profile used primarily for my own learning and experimentation.
+My interests are usually data engineering focused but can vary.
 
+### My favourite technologies are:
+
+[![Technologies](https://skillicons.dev/icons?i=python,aws,docker,fastapi,flask,git,github,linux,mint,ubuntu,mysql,postgres,postman,raspberrypi,sqlite,cloudflare,selenium,terraform,vscode,anaconda,githubactions&perline=10)]()
+
+### I want to learn more about:
+
+[![want to learn](https://skillicons.dev/icons?i=kubernetes,redis,rust,kafka,grafana,elasticsearch,dynamodb,arduino&perline=10)]()
 <!--
 **lk0356/lk0356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
