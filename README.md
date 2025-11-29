@@ -1,5 +1,5 @@
 ## Hi there 👋
-This profile is my personal profile used primarily for my own learning and experimentation.
+This is my personal profile and is used primarily for learning and experimentation.
 My interests are usually data engineering focused but can vary.
 
 ### My favourite technologies are:
